@@ -38,7 +38,7 @@
       selectedLauncherIdentifier = "Xcode.IDEFoundation.Launcher.PosixSpawn"
       launchStyle = "0"
       useCustomWorkingDirectory = "YES"
-      customWorkingDirectory = "/Users/zuoyongyong/Desktop/testPython"
+      customWorkingDirectory = "/Volumes/mydata/work/zuoyongyong/pythonProj/testPython"
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
